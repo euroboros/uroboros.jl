@@ -1,2 +1,2 @@
 # uroboros.jl
-A collection of flow solver in Julia
+A collection of DG solvers in Julia, both for compressible and incompressible flows.
